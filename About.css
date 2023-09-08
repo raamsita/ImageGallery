@@ -1,0 +1,14 @@
+img{
+    height: 300px;
+    width: 100%;
+    border: 5px;
+}
+h1{
+    text-align: start;color: aqua;
+}
+h2{
+    text-align: start;color: blue;
+}
+h3{
+    text-align: start;color: darkmagenta;
+}
