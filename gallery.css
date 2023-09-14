@@ -22,7 +22,7 @@ nav{
 img{
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    /* object-fit: cover; */
     background-color: beige;
     text-align: center;
     border: solid 1px solid coral;
@@ -100,6 +100,17 @@ img{
     height: 50px;
     width: 50px;
 }
-img:hover{
-    transform: scale(1.1);
+/* img:hover{ 
+     transform: scale(1.1); 
+}  */
+
+ .moving-text { 
+    display: none;
+    position: absolute;
+    background-color: antiquewhite;
 }
+
+
+ 
+    
+
